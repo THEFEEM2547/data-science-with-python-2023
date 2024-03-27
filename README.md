@@ -4,8 +4,6 @@
 
 1. Demonstration
 2. What is Accident Detection System?
-3. Prerequisites
-4. Getting Started- How to use it?
 5. Description
 6. Future Work
 
